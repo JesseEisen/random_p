@@ -6,7 +6,7 @@
 //
 
 #ifndef _RANDOM_P_H_
-#define _RAMDOM_P_H_
+#define _RANDOM_P_H_
 
 
 extern int find_ceil(int base[], int random, int low, int high);
