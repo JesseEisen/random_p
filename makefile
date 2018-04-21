@@ -1,7 +1,7 @@
 CC = gcc
-SRC = deps/c_print/c_print.c random_p.c test.c 
+SRC = random_p.c test.c
 OBJ = $(SRC:.c=.o)
-CFLAGS = -I deps/c_print -g
+CFLAGS = -I deps/color -g
 
 
 test: $(OBJ)

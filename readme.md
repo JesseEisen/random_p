@@ -15,7 +15,7 @@ $ ./test
 ```
 Result:
 
-![test result](./assets/test.jpg)
+![test result](./assets/test.png)
 
 
 
